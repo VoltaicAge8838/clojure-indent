@@ -9,7 +9,7 @@
     "indenting",
     "syntax"
   ],
-  "repository": "https://github.com/Ciebiada/clojure-indent",
+  "repository": "https://github.com/voltaicage8838/clojure-indent",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
